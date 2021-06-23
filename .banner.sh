@@ -1,5 +1,6 @@
-apt install pv 
-echo -e '''
+apt install pv -y
+clear
+eco -e '''
          \e[1;91m      ╔═══════════╗
          \e[1;91m    ╔═╝\e[1;97m███████████\e[1;91m╚═╗
          \e[1;91m   ╔╝\e[1;97m███████████████\e[1;91m╚╗
